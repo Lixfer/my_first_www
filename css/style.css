@@ -38,7 +38,7 @@
         }
         
         .box__column--image {
-            background-image: url(K.jpg);
+            background-image: url(../K.jpg);
             background-repeat: no-repeat;
             background-size: cover;
             background-position: center;
